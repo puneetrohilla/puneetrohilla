@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puneetrohilla
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...React Js
+- 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...puneetrohilla54@gmail.com
 
